@@ -7768,6 +7768,12 @@ textarea.form-control-lg {
   padding-right: 3rem !important;
   padding-left: 3rem !important;
 }
+@media only screen and (max-width: 600px){
+
+  .px-5{
+    padding-bottom: 1rem ! important;
+  }
+}
 
 .py-0 {
   padding-top: 0 !important;
