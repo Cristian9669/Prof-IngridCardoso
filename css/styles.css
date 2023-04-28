@@ -7771,7 +7771,17 @@ textarea.form-control-lg {
 @media only screen and (max-width: 600px){
 
   .px-5{
-    padding-bottom: 1rem ! important;
+    padding-bottom: 5rem !important;
+    padding-top: 5rem;
+    margin: 3px;
+  }
+}
+@media only screen and (max-width: 786px){
+
+  .px-5{
+    padding-bottom: 3rem !important;
+    padding-top: 5rem;
+    margin: 3px;
   }
 }
 
